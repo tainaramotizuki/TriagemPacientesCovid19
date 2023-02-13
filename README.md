@@ -1,0 +1,1 @@
+# TriagemPacientesCovid19
