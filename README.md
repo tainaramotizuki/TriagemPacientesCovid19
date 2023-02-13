@@ -1,1 +1,1 @@
-# TriagemPacientesCovid19
+# ConsultaPacientesCovid19-PIMIV-UNIP
