@@ -1,0 +1,14 @@
+NOME: paciente teste jovem sem comorbidade
+CPF: 234.908.238-84
+TELEFONE: (11) 99999-9999
+ENDEREÇO: Rua teste, nº 190
+BAIRRO: Jd. teste
+CIDADE: São Paulo - SP
+CEP: 15700-666
+DATA DE NASCIMENTO: 26 / 6 / 1994
+IDADE: 28
+E-MAIL: pacienteteste@gmail.com
+DATA DO DIAGNÓSTICO: 22 / 11 / 2022
+COMORBIDADES: NAO POSSUI
+
+

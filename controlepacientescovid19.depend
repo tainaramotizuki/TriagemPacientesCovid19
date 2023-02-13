@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1669165920 source:c:\users\taina\onedrive\documentos\code blocks\controlepacientescovid19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+

@@ -1,0 +1,56 @@
+NOME: paciente teste jovem sem comorbidade
+CPF: 234.908.238-84
+TELEFONE: (11) 99999-9999
+ENDEREÇO: Rua teste, nº 190
+BAIRRO: Jd. teste
+CIDADE: São Paulo - SP
+CEP: 15700-666
+DATA DE NASCIMENTO: 26 / 6 / 1994
+IDADE: 28
+E-MAIL: pacienteteste@gmail.com
+DATA DO DIAGNÓSTICO: 22 / 11 / 2022
+COMORBIDADES: NAO POSSUI
+
+
+NOME: paciente teste jovem com comorbidade
+CPF: 234.897.420-56
+TELEFONE: (11) 99999-9999	
+ENDEREÇO: Rua teste, nº 245
+BAIRRO: Jd. teste
+CIDADE: São Paulo - SP
+CEP: 15700-000
+DATA DE NASCIMENTO: 26 / 6 / 2000
+IDADE: 22
+E-MAIL: pacienteteste@gmail.com
+DATA DO DIAGNÓSTICO: 22 / 11 / 2022
+COMORBIDADES: Asma
+
+
+NOME: paciente teste idoso sem comorbidade
+CPF: 345.927.748-87
+TELEFONE: (11) 99999-9999
+ENDEREÇO: Rua teste, nº 234
+BAIRRO: Jd. teste
+CIDADE: São Paulo - SP
+CEP: 15700-666
+DATA DE NASCIMENTO: 26 / 6 / 1930
+IDADE: 92
+E-MAIL: pacienteteste@gmail.com
+DATA DO DIAGNÓSTICO: 22 / 11 / 2022
+COMORBIDADES: NAO POSSUI
+
+
+NOME: paciente teste idoso com comorbidade
+CPF: 234.982.638-90
+TELEFONE: (11) 99999-9999
+ENDEREÇO: Rua teste, nº 342
+BAIRRO: Jd. teste
+CIDADE: São Paulo - SP
+CEP: 15700-000
+DATA DE NASCIMENTO: 26 / 6 / 1930
+IDADE: 92
+E-MAIL: pacienteteste@gmail.com
+DATA DO DIAGNÓSTICO: 22 / 11 / 2022
+COMORBIDADES: Diabetes
+
+
